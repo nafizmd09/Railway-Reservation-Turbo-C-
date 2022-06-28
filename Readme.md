@@ -1,4 +1,4 @@
-# <b>Railway Reservation System with Turbo C++</b>
+# <b>Railway Reservation System project Turbo C++</b>
 
 _In this railway reservation system project in C++, users can get both the train details and the train reservation details. The details to be provided for train are train no., train name, boarding point, destination point, no. of seats in first class and fare per ticket, no. of seats in second class and fare per ticket and date of travel. <br/>
 And, in case of reservation details, the information to be provided are train no., train name, boarding point, destination point, no. of seats required, seat class specification, date of reservation, passenger category and amount to be paid. According to the no. of seats, additional information – passenger name and passenger age are to be provided. The passenger category is divided as: military, senior citizen, children and none._
