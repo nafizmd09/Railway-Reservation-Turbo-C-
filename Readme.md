@@ -33,7 +33,7 @@ iv. canc: This class is used for cancellation system. So, the passenger mentione
 ## Main Menu Map
 ![MainMenuMap](./images/MainMenuMap.JPG)
 
-## [See more flowchart system...]((https://www.slideshare.net/secret/4ORfKjZj643bGl](https://www.slideshare.net/NafizMdImtiazUddin/turbo-c-railway-reservation-system-project-bsc-student))
+## [See more flowchart...](https://www.slideshare.net/NafizMdImtiazUddin/turbo-c-railway-reservation-system-project-bsc-student)
 
 <hr/>
 
@@ -44,4 +44,4 @@ iv. canc: This class is used for cancellation system. So, the passenger mentione
 ![4_no_pic](./images/4.PNG)
 ![5_no_pic](./images/5.PNG)
 
-## [See more screenshots...]((https://www.slideshare.net/secret/4ORfKjZj643bGl](https://www.slideshare.net/NafizMdImtiazUddin/turbo-c-railway-reservation-system-project-bsc-student))
+## [See more screenshots...](https://www.slideshare.net/NafizMdImtiazUddin/turbo-c-railway-reservation-system-project-bsc-student)
